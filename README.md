@@ -12,10 +12,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
--->
-  About Me
-  -I am a dedicated and passionate Computer Science and Engineering student with a strong academic background, foundation in software development, problem-solving, Machine Learning and system design. Proficient in C++, Java, C#, and JavaScript, I enjoy turning ideas into impactful solutions that make technology more efficient and user-friendly.
+
+
+About Me:
+
+I am a dedicated and passionate Computer Science and Engineering student with a strong academic background, foundation in software development, problem-solving, Machine Learning and system design. Proficient in C++, Java, C#, and JavaScript, I enjoy turning ideas into impactful solutions that make technology more efficient and user-friendly.
 
 Throughout my academic journey, I’ve developed full-stack applications such as Parkway – Smart Parking Solution and Travel World – Comprehensive Travel System, where I integrated real-time features, authentication, payment gateways, and APIs to deliver seamless user experiences. These projects helped me strengthen my skills in backend logic, database management, and UI/UX design.
 
