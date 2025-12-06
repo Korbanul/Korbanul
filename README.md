@@ -1,9 +1,4 @@
-
-
-
-
-Here are some ideas to get you started:
-
+Hi I am Gazi Korbanul Islam.
 - 🔭 I’m currently working on Deep Learning Research 
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
